@@ -1,35 +1,33 @@
-# 🧮 Calculator Web Application
+# 🌐 Responsive Multi-Page Website
 
-A fully functional and interactive **Calculator Web Application** built using HTML, CSS, and JavaScript. This project is designed to demonstrate DOM manipulation, event handling, arithmetic parsing, and keyboard input support in a clean and user-friendly interface.
+This project is a fully responsive, multi-page website built using **HTML**, **CSS**, and **JavaScript**, featuring a fixed navigation menu that changes style when scrolled and on hover. The website includes four main sections:
 
----
+- **Home**
+- **Features**
+- **About**
+- **Contact**
 
-## 🔧 Features
+## 🧩 Features
 
-- ✅ **Basic Arithmetic Operations**: Addition, Subtraction, Multiplication, Division
-- ✅ **Interactive UI**: Clickable buttons and responsive input display
-- ✅ **Keyboard Input Support**: Supports number and operator keys, Enter, Backspace, and Escape
-- ✅ **Error Handling**: Gracefully handles invalid expressions
-- ✅ **Responsive Design**: Clean and modern layout using CSS Grid
-- ✅ **DOM Manipulation & Events**: Fully functional using vanilla JavaScript
+- 💻 **Responsive Design** – Works on mobile, tablet, and desktop.
+- 📌 **Sticky Navigation Bar** – The navigation stays visible at the top of the screen.
+- 🎨 **Interactive Navigation** – The navbar changes background color on scroll and link style on hover.
+- 📄 **Multi-Page Setup** – All navigation links point to their respective pages.
+- 🧠 **Vanilla HTML/CSS/JS** – No frameworks or libraries used.
 
----
-
-
-## 🛠️ Tech Stack
-
-- **HTML5** – Markup
-- **CSS3** – Styling & layout (Grid)
-- **JavaScript (ES6)** – Logic and DOM manipulation
-
----
 
 ## 📁 Folder Structure
 
-├── index.html # Main HTML structure
+├── index.html
 
-├── style.css # Styling file
+├── features.html
 
-├── script.js # Functional logic
+├── about.html
 
-└── README.md # Project overview
+├── contact.html
+
+├── style.css
+
+├── script.js
+
+└── README.md
